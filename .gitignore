@@ -1,0 +1,11 @@
+#Basic ignore
+/node_modules
+.prettierrrc.json
+package-lock.json
+package.json
+/.ssh
+
+#For temp ignore materials
+*.mp4
+*.flac
+*.jpg
