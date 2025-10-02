@@ -6,6 +6,3 @@ package.json
 /.ssh
 
 #For temp ignore materials
-*.mp4
-*.flac
-*.jpg
