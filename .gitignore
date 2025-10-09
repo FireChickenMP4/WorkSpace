@@ -4,5 +4,6 @@
 package-lock.json
 package.json
 /.ssh
+/.venv
 
 #For temp ignore materials

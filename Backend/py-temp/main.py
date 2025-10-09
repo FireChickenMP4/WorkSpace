@@ -4,11 +4,9 @@
 持续监控当前目录下的新文件，并按顺序重命名指定后缀的文件
 """
 
-import os
 import re
 import time
 import signal
-import sys
 from pathlib import Path
 from collections import deque
 from threading import Lock, Thread
