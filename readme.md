@@ -15,4 +15,6 @@
         <td>6</td>
     </tr>
 </table>
-<img src="Others\md\md语法\bilibili_BV16G8meNENx_IMG.jpg"titLe="qwq"/>
+<a href="https://www.bilibili.com/video/BV16G8meNENx/">
+    <img src="Others\md\md语法\bilibili_BV16G8meNENx_IMG.jpg"titLe="qwq"/>
+</a>
