@@ -6,5 +6,9 @@ package.json
 /.ssh
 /.venv
 
+#Key ignore
+
+Key/
+
 #For temp ignore materials
 materials/
